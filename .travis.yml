@@ -4,8 +4,9 @@ install:
   - pip3 install sphinx
 script:
   - make html
+  - touch build/html/.nojekyll
 deploy:
-  local_dir: docs/html
+  local_dir: build/html
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN 
