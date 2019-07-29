@@ -59,3 +59,9 @@ html_copy_source = False
 
 # Page titles
 html_title = '{} – {}'.format(project, release)
+
+# Alabaster theme configuration
+html_theme_options = {
+    "link_hover":"#990000",
+    "link":"#990000",
+}
