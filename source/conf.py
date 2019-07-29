@@ -53,3 +53,9 @@ html_theme = 'alabaster'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['static']
+
+# Do not include a link to original source code of the page
+html_copy_source = False
+
+# Page titles
+html_title = '{} – {}'.format(project, release)
