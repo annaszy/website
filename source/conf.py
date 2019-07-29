@@ -58,7 +58,7 @@ html_static_path = ['static']
 html_copy_source = False
 
 # Page titles
-html_title = '{} – {}'.format(project, release)
+html_title = '{} {}'.format(project, release)
 
 # Alabaster theme configuration
 html_theme_options = {
