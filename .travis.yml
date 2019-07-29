@@ -1,4 +1,4 @@
-if: commit_message !~ /(Deploy race-on)/
+if: sender != "traviscibot"
 dist: bionic
 language: python
 install:
