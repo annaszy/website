@@ -1,4 +1,3 @@
-if: commit_message !~ /(Deploy race-on)/
 dist: bionic
 language: python
 install:
@@ -6,9 +5,9 @@ install:
 script:
   - make html
 deploy:
+  local_dir: docs/html
   provider: pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN 
-  keep_history: true
   on:
     branch: master
