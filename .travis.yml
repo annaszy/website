@@ -1,3 +1,4 @@
+if: sender != traviscibot
 dist: bionic
 language: python
 install:
