@@ -1,4 +1,4 @@
-if: sender != "traviscibot"
+if: commit_message !~ /(Deploy race-on)/
 dist: bionic
 language: python
 install:
@@ -8,8 +8,7 @@ script:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  github_token: $GITHUB_TOKEN 
   keep_history: true
-  target_branch: master
   on:
     branch: master
