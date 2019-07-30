@@ -46,6 +46,33 @@ Timeline
     Second Race
     
 
+
+Cars
+----
+
+
+**3Racing Sakura NU**
+Length: 434mm (without body & foam bumper)
+Width: 186mm
+Wheelbase: 257mm
+Tread (F/R): F: 163mm / R: 161mm
+Gear Ratio: 2:1 (38T/19T)
+
+**3Racing Sakura XI Sport 1/10 RC Touring Car**
+Length: 434mm (without Body & Foam Bumper)
+Weight: approx. 1380g
+Wheelbase: 257mm
+Tread Front and Rear: 163mm (Front) / 161mm (Rear)
+Gear Ratio: 2:1 (38T/19T)
+
+**3RACING Sakura Zero S 1/10 Touring Car**
+Overall Length: 343mm (without body and foam bumper)
+Overall Width: 188mm ( F/R 5mm wheel adaptor)
+Wheelbase: 257mm
+Tread (F/R): 163 F/R
+Gear Ratio: 1:9:1 (38T/20T)
+
+
 .. toctree::
    :maxdepth: 2
    :glob:
