@@ -1,4 +1,4 @@
-Race On — A Self-Driving Car Competition
+Self-Driving Car Competition
 ==================
 
 The goal of this competition is to engage students in hardware-software development of a self-driving car for racing. Teams of 2 to 4 students compete to build the fastest car and have one semester to prepare for the two races, when all cars, turn by turn, race to record the fastest time. The competition is directed to junior and senior USC Viterbi undergraduate studends, and USC Viterbi master students regardless of their program or year. Sophomore undergraduate students are also welcome; however, the difficulty of this competition may be more appropriate for more experienced students. Students are not expected to have prior experience with self-driving cars. Teams will receive instructions how to assemble a car from scratch, solder a Raspberry Pi HAT and program the control algorithm of a self-driving car. All cars are built on the same platform and race against each other on the same track configuration, thus innovation and creativity is what counts.
@@ -7,13 +7,8 @@ To help the teams get started and provide support along the way, a series of wor
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
+   :hidden:
+   :titlesonly:
 
    rules.rst
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
