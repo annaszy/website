@@ -50,6 +50,14 @@ Timeline
 Cars
 ----
 
+Upon registration, the student will receive their pre-built car, described below.
+
+The car is built around a 1/10 scale RC touring chassis powered by a brushed motor and a 2–cell LiPo battery. The Raspberry Pi microprocessor through image processing will detect the track from the images supplied by a camera and adjust the steering angle and the motor speed to keep the car on the track. The images below show the assembled car, the camera and the Raspberry Pi board that when assemble form the car to be raced. The chassis, battery and the motor are regulated to ensure that no team gains an advantage through better components, and that creativity and superior programming differentiate the teams.
+
+Modifications of the chassis are allowed as long as they follow the :ref:Rules. Moreover, more sensors can be added as long as the camera remains the main sensor used for steering the car. Cars are permitted to have a wireless connection with a computer for development and calibration, however, during the final race the car should operate autonomously and no external connection is permitted. All cars will be inspected before the final race and only the ones which comply with the above rules will be allowed to compete.
+
+To receive the car, each team (not each individual member) will pay $60 to offset the cost of the car, which originally costs approximately $200-$260. The Raspberry Pi and the camera are included in this cost.
+
 
 **3Racing Sakura NU**
 Length: 434mm (without body & foam bumper)
