@@ -30,32 +30,13 @@ Timeline
    * - **Registration**
      - **Monday, August 26** to **Friday, September 6**
    * - **Info Session**
-     - **Thursday, August 29**
+     - Thursday, August 29
    * - **Workshops**
-       #. ROS Setup
      - 1.49
-   * - Gannet Ripple
-     - 1.99
-
-
-**Monday, August 26** to **Friday, September 6**
-     
-    
-**Thursday, August 29**
-    Info Session
-    
-**TO DO**
-    Add workshops
-
-**Friday, October 11**
-    First Race
-    
-**Friday, November 15**
-    Second Race
-    
-
-
-
+   * - First Race
+     - Friday, October 11
+   * - Second Race
+     - Friday, November 15
 
 
 **3Racing Sakura NU**
