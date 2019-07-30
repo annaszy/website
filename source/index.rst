@@ -24,7 +24,7 @@ Timeline
 --------
 
 .. list-table::
-   :widths: 50% 50%
+   :widths: 30 30
    :align: center
 
    * - **Registration**
